@@ -1,0 +1,3 @@
+Nombre: Carolimi    
+Edad: 32
+Color Favorito: Rojo
